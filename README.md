@@ -1,2 +1,1 @@
-"# NYCU Video-streaming-and-tracking-HW3" 
-"# Video-streaming-and-tracking-HW3" 
+# NYCU Video-streaming-and-tracking-HW3
